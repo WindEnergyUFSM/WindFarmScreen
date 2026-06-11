@@ -1,4 +1,4 @@
-# WindFarmScreen
+# WindFarmScreen (Full Release on day 30/06)
 
 An automated, open-source Python framework designed to streamline and standardize wind energy site screening, terrain complexity assessment, and preliminary campaign planning. By integrating open-access geographic and meteorological data with industry-standard assessment logic, the pipeline accelerates due diligence and optimizing site monitoring campaigns.
 
